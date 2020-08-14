@@ -24,7 +24,7 @@
 (note：code for 《统计学习方法（第二版）》)
 - Online Video：<u>[吴恩达机器学习视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=6342152292218004890)</u>
 - Github Repo：<u>[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)</u>  
-(note：note for 《统计学习方法（第二版）》)
+(note：note for 吴恩达机器学习视频)
 - E-book：<u>[《神经网络与深度学习》](https://nndl.github.io/)</u>
 
 *** 
