@@ -32,7 +32,7 @@
 - Book：<u>[《知识图谱：概念与技术》](https://book.douban.com/subject/34930415/)</u>
 - Github Repo：<u>[东南大学2019年《知识图谱》资源分享](https://github.com/npubird/KnowledgeGraphCourse)</u>
 - Online Video：<u>[CS224N](https://www.bilibili.com/video/BV1Wb411W7Nr)</u>
-- Online Videa：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
+- Online Video：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
 (note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pretrain Language Model. )
 
 *** 
