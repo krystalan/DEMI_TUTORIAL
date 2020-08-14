@@ -36,4 +36,3 @@
 (note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pretrain Language Model. )
 
 *** 
-# 4.
