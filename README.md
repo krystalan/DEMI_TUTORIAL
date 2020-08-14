@@ -5,6 +5,7 @@
 # 1.Coding
 ## 1.1 深度学习框架学习
 - E-book：<u>[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)</u>
+- Doc：<u>[PyTorch Doc](https://pytorch.org/docs/stable/index.html)</u>
 - Github Repo： <u>[PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)</u>
 - Github Repo：<u>[pytorch_tricks](https://github.com/zxdefying/pytorch_tricks)</u>
 - Github Repo：<u>[EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch)</u>
@@ -22,6 +23,8 @@
 - Github Repo：<u>[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)</u>  
 (note：code for 《统计学习方法（第二版）》)
 - Online Video：<u>[吴恩达机器学习视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=6342152292218004890)</u>
+- Github Repo：<u>[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)</u>  
+(note：note for 《统计学习方法（第二版）》)
 - E-book：<u>[《神经网络与深度学习》](https://nndl.github.io/)</u>
 
 *** 
@@ -33,3 +36,4 @@
 (note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pretrain Language Model. )
 
 *** 
+# 4.
