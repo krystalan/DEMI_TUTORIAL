@@ -19,6 +19,8 @@
 
 # 2.机器学习与深度学习
 - Book：<u>[《统计学习方法（第二版）》](https://book.douban.com/subject/33437381/)</u>
+- Github Repo：<u>[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)</u>  
+(note：code for 《统计学习方法（第二版）》)
 - Online Video：<u>[吴恩达机器学习视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=6342152292218004890)</u>
 - E-book：<u>[《神经网络与深度学习》](https://nndl.github.io/)</u>
 
@@ -30,3 +32,4 @@
 - Online Videa：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
 (note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pretrain Language Model. )
 
+*** 
