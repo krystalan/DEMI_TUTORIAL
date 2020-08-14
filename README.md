@@ -1,6 +1,7 @@
 
 # DEMI组入门资料
-
+![Author](https://img.shields.io/badge/Author-Jiaan%20Wang-blue) 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
 
 # 1.Coding
 ## 1.1 深度学习框架学习
