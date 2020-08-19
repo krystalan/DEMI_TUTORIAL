@@ -36,6 +36,7 @@
 - Online Video：<u>[CS224N](https://www.bilibili.com/video/BV1Wb411W7Nr)</u>
 - Github Repo：<u>[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)</u>
 - Online Video：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
-(note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pretrain Language Model. )
+(note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pre-trained Language Model. )
+- Paper：<u>[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)</u>
 
 *** 
