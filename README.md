@@ -33,10 +33,14 @@
 # 3.自然语言处理入门
 - Book：<u>[《知识图谱：概念与技术》](https://book.douban.com/subject/34930415/)</u>
 - Github Repo：<u>[东南大学2019年《知识图谱》资源分享](https://github.com/npubird/KnowledgeGraphCourse)</u>
+- Github Repo:<u>[Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP)</u>
 - Online Video：<u>[CS224N](https://www.bilibili.com/video/BV1Wb411W7Nr)</u>
 - Github Repo：<u>[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)</u>
 - Online Video：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
 (note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pre-trained Language Model. )
 - Paper：<u>[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)</u>
-
 *** 
+# 4.如何写论文
+- Zhihu：<u>[如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)</u>
+- Zhihu：<u>[研究生第一篇科研论文常犯问题总结](https://zhuanlan.zhihu.com/p/194987138)</u>
+- Zhihu：<u>[高年级博士、博士后、PI如何提高英文科研写作能力？](https://zhuanlan.zhihu.com/p/189402998)</u>
