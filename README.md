@@ -7,7 +7,7 @@
 # 1.Coding
 ## 1.1 深度学习框架学习
 ### Fundamental Tutorial
-- （♥♥♥♥）E-book：<u>[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)</u>
+- （♥♥♥♥♥）E-book：<u>[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)</u>
 - （♥♥♥♥♥）Doc：<u>[PyTorch Doc](https://pytorch.org/docs/stable/index.html)</u>
 - （♥♥♥）Github Repo： <u>[PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)</u>
 - （♥♥♥♥）Github Repo：<u>[pytorch_tricks](https://github.com/zxdefying/pytorch_tricks)</u>
