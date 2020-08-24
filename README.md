@@ -15,7 +15,7 @@
 - （♥♥♥）Blog：<u>[PyTorch笔记](http://wangjiaan.cn/tags/PyTorch/)</u>
 ### Advanced Tutorial
 - （♥♥♥♥♥♥）Doc：<u>[Transformers Doc](https://huggingface.co/transformers/model_doc/bert.html)</u>  
-(note：Transformers provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch. **We Strongly Recommend That Read This Document AFTER LEARNING THE PRE-TRAINED LANGUAGE MODEL**, such as BERT)
+(Transformers provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch. **We Strongly Recommend That Read This Document AFTER LEARNING THE PRE-TRAINED LANGUAGE MODEL**, such as BERT)
 
 ## 1.2 基础算法学习
 - （♥♥♥♥♥）Book：<u>[《剑指offer》](https://book.douban.com/subject/27008702/)</u>
@@ -27,10 +27,10 @@
 # 2.机器学习与深度学习
 - （♥♥♥♥♥）Book：<u>[《统计学习方法（第二版）》](https://book.douban.com/subject/33437381/)</u>
 - （♥♥♥♥）Github Repo：<u>[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)</u>  
-(note：code for 《统计学习方法（第二版）》)
+(code for 《统计学习方法（第二版）》)
 - （♥♥♥♥）Online Video：<u>[吴恩达机器学习视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=6342152292218004890)</u>
 - （♥♥♥♥）Github Repo：<u>[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)</u>  
-(note：note for 吴恩达机器学习视频)
+(note for 吴恩达机器学习视频)
 - （♥♥♥♥♥♥）E-book：<u>[《神经网络与深度学习》](https://nndl.github.io/)</u>
 
 *** 
@@ -41,7 +41,7 @@
 - （♥♥♥♥♥♥）Online Video：<u>[CS224N](https://www.bilibili.com/video/BV1Wb411W7Nr)</u>
 - （♥♥♥♥♥）Github Repo：<u>[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)</u>
 - （♥♥♥）Online Video：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u>  
-(note：this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pre-trained Language Model. )
+(this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pre-trained Language Model. )
 - （♥♥♥♥♥）Paper：<u>[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)</u>
 *** 
 # 4.如何写论文
