@@ -36,7 +36,7 @@
 *** 
 # 3.自然语言处理入门
 - （♥♥♥♥）Book：<u>[《知识图谱：概念与技术》](https://book.douban.com/subject/34930415/)</u>
-- （♥♥♥♥）Github Repo：<u>[东南大学2019年《知识图谱》资源分享](https://github.com/npubird/KnowledgeGraphCourse)</u>
+- （♥♥♥♥♥♥）Github Repo：<u>[东南大学2019年《知识图谱》资源分享](https://github.com/npubird/KnowledgeGraphCourse)</u>
 - （♥♥♥♥♥）Github Repo:<u>[Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP)</u>
 - （♥♥♥♥♥♥）Online Video：<u>[CS224N](https://www.bilibili.com/video/BV1Wb411W7Nr)</u>
 - （♥♥♥♥♥）Github Repo：<u>[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)</u>
