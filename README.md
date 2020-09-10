@@ -49,4 +49,4 @@
 - Zhihu：<u>[如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)</u>
 - Zhihu：<u>[研究生第一篇科研论文常犯问题总结](https://zhuanlan.zhihu.com/p/194987138)</u>
 - Zhihu：<u>[高年级博士、博士后、PI如何提高英文科研写作能力？](https://zhuanlan.zhihu.com/p/189402998)</u>
-- Weixin：<u>[如何优雅的写好一篇科学研究论文？这里有些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247508397&idx=5&sn=49d24045a5e3e611ecd0535d66552503&chksm=ebb79979dcc0106fa8628bc0557a75db8da5a6c8ed759790ccd7c9c3287b32897d3afaeafdab&mpshare=1&scene=23&srcid=08266PLv2hPBbOW5pz5hE8Pp&sharer_sharetime=1598416973259&sharer_shareid=6c36f30e99679af7a7cfe0098d5e5b1d#rd)</u>
+- Wechat：<u>[如何优雅的写好一篇科学研究论文？这里有些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247508397&idx=5&sn=49d24045a5e3e611ecd0535d66552503&chksm=ebb79979dcc0106fa8628bc0557a75db8da5a6c8ed759790ccd7c9c3287b32897d3afaeafdab&mpshare=1&scene=23&srcid=08266PLv2hPBbOW5pz5hE8Pp&sharer_sharetime=1598416973259&sharer_shareid=6c36f30e99679af7a7cfe0098d5e5b1d#rd)</u>
